@@ -1,6 +1,8 @@
 <div align="center">
     <img src="https://i.imgur.com/w8tTOuT.png" title="source: imgur.com" /> 
 </div>
+
+</br>
 	
 <table width="100%">
 	<tr>
